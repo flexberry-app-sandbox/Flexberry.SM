@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-s-m-event-e",
+  "editForm": "i-i-s-s-m-event-e",
+  "external": false,
+  "caption": "Event",
+  "name": "IISSMEventL",
+  "className": "EventL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-s-m-event",
+      "modelProjection": "EventL"
+    }
+  ]
+}

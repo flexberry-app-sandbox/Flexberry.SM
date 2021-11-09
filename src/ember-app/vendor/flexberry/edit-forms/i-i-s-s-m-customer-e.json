@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Customer",
+  "name": "IISSMCustomerE",
+  "className": "CustomerE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-s-m-customer",
+      "modelProjection": "CustomerE"
+    }
+  ]
+}

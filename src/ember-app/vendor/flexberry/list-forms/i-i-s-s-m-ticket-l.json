@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-s-m-ticket-e",
+  "editForm": "i-i-s-s-m-ticket-e",
+  "external": false,
+  "caption": "Ticket",
+  "name": "IISSMTicketL",
+  "className": "TicketL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-s-m-ticket",
+      "modelProjection": "TicketL"
+    }
+  ]
+}

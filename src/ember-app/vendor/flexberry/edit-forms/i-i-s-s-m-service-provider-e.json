@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service provider",
+  "name": "IISSMServiceProviderE",
+  "className": "ServiceProviderE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-s-m-service-provider",
+      "modelProjection": "ServiceProviderE"
+    }
+  ]
+}
